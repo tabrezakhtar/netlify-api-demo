@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/tabrezakhtar/netlify-api-demo#readme",
   "dependencies": {
+    "@vendia/serverless-express": "^4.12.6",
     "express": "^4.21.2"
   }
 }
