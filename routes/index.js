@@ -1,7 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const simpleRoutes = require("./simple");
+const recipeRoutes = require("./recipes");
 
-router.get("/simple/", simpleRoutes.get);
+router.get("/recipes/", recipeRoutes.getAll);
+router.get("/recipesFilter/", recipeRoutes.getByIngredient);
 
 module.exports = router;

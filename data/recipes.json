@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "countryOfOrigin": "Italy",
+    "difficulty": "Medium",
+    "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper"],
+    "prepTime": "30 minutes"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "countryOfOrigin": "India",
+    "difficulty": "Hard",
+    "ingredients": ["chicken", "yogurt", "tomato sauce", "garam masala", "cumin", "coriander"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Sushi",
+    "countryOfOrigin": "Japan",
+    "difficulty": "Hard",
+    "ingredients": ["sushi rice", "nori", "raw fish", "soy sauce", "wasabi"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Tacos",
+    "countryOfOrigin": "Mexico",
+    "difficulty": "Easy",
+    "ingredients": ["tortillas", "ground beef", "lettuce", "cheese", "salsa"],
+    "prepTime": "20 minutes"
+  },
+  {
+    "name": "Poutine",
+    "countryOfOrigin": "Canada",
+    "difficulty": "Easy",
+    "ingredients": ["french fries", "cheese curds", "gravy"],
+    "prepTime": "30 minutes"
+  },
+  {
+    "name": "Croissant",
+    "countryOfOrigin": "France",
+    "difficulty": "Hard",
+    "ingredients": ["flour", "butter", "yeast", "milk", "sugar"],
+    "prepTime": "3 hours"
+  },
+  {
+    "name": "Paella",
+    "countryOfOrigin": "Spain",
+    "difficulty": "Medium",
+    "ingredients": ["rice", "saffron", "chicken", "seafood", "peas"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Falafel",
+    "countryOfOrigin": "Middle East",
+    "difficulty": "Medium",
+    "ingredients": ["chickpeas", "onion", "garlic", "parsley", "cumin"],
+    "prepTime": "45 minutes"
+  },
+  {
+    "name": "Beef Stroganoff",
+    "countryOfOrigin": "Russia",
+    "difficulty": "Medium",
+    "ingredients": ["beef", "mushrooms", "onion", "sour cream", "mustard"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Pad Thai",
+    "countryOfOrigin": "Thailand",
+    "difficulty": "Medium",
+    "ingredients": ["rice noodles", "shrimp", "tofu", "peanuts", "bean sprouts"],
+    "prepTime": "45 minutes"
+  },
+  {
+    "name": "Hamburger",
+    "countryOfOrigin": "USA",
+    "difficulty": "Easy",
+    "ingredients": ["ground beef", "bun", "lettuce", "tomato", "cheese"],
+    "prepTime": "20 minutes"
+  },
+  {
+    "name": "Kimchi",
+    "countryOfOrigin": "Korea",
+    "difficulty": "Medium",
+    "ingredients": ["cabbage", "salt", "garlic", "ginger", "chili powder"],
+    "prepTime": "2 hours"
+  },
+  {
+    "name": "Moussaka",
+    "countryOfOrigin": "Greece",
+    "difficulty": "Hard",
+    "ingredients": ["eggplant", "ground beef", "tomato sauce", "béchamel sauce", "cheese"],
+    "prepTime": "2 hours"
+  },
+  {
+    "name": "Borscht",
+    "countryOfOrigin": "Ukraine",
+    "difficulty": "Medium",
+    "ingredients": ["beets", "cabbage", "potatoes", "carrots", "onion"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Fish and Chips",
+    "countryOfOrigin": "UK",
+    "difficulty": "Easy",
+    "ingredients": ["fish", "potatoes", "flour", "beer", "oil"],
+    "prepTime": "30 minutes"
+  },
+  {
+    "name": "Pho",
+    "countryOfOrigin": "Vietnam",
+    "difficulty": "Hard",
+    "ingredients": ["rice noodles", "beef", "broth", "herbs", "lime"],
+    "prepTime": "2 hours"
+  },
+  {
+    "name": "Goulash",
+    "countryOfOrigin": "Hungary",
+    "difficulty": "Medium",
+    "ingredients": ["beef", "paprika", "onion", "tomato", "potatoes"],
+    "prepTime": "1 hour 30 minutes"
+  },
+  {
+    "name": "Empanadas",
+    "countryOfOrigin": "Argentina",
+    "difficulty": "Medium",
+    "ingredients": ["flour", "beef", "onion", "olive", "egg"],
+    "prepTime": "1 hour"
+  },
+  {
+    "name": "Baklava",
+    "countryOfOrigin": "Turkey",
+    "difficulty": "Hard",
+    "ingredients": ["phyllo dough", "nuts", "honey", "butter", "cinnamon"],
+    "prepTime": "2 hours"
+  },
+  {
+    "name": "Churros",
+    "countryOfOrigin": "Spain",
+    "difficulty": "Easy",
+    "ingredients": ["flour", "water", "sugar", "cinnamon", "oil"],
+    "prepTime": "30 minutes"
+  }
+]
