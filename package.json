@@ -2,10 +2,10 @@
   "name": "netlify-api-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "build": "netlify-lambda build express",
-    "start": "nodemon local-server.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
