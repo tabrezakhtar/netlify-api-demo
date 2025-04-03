@@ -8,7 +8,9 @@ async function getByIngredient(req, res) {
   const { ingredient } = req.query;
 
   const filteredRecipes = recipes.filter((recipe) => {
-    return recipe.ingredients.includes(ingredient);
+    return recipe.ingredients.some((item) => 
+      item.toLowerCase().includes(ingredient.toLowerCase())
+    );
   });
   res.json(filteredRecipes);
 }
